@@ -1,0 +1,32 @@
+{
+	"name": "@js-util/two-way-socket-pipe",
+	"version": "1.0.0",
+	"description": "Given two `net.Socket`, pipe their data stream in both direction",
+
+	"keywords": [
+		"socket",
+		"net.Socket",
+		"two",
+		"2",
+		"pipe",
+		"bind"
+	],
+
+	"main": "twoWaySocketPipe.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+
+	"author": "picocreator",
+	"license": "MIT",
+	"private": false,
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/js-util/two-way-socket-pipe.git"
+	},
+	
+	"engines": {
+		"node": ">=8.0.0"
+	}
+}
